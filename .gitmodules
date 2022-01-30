@@ -1,0 +1,3 @@
+[submodule "data-engineering-zoomcamp"]
+	path = data-engineering-zoomcamp
+	url = git@github.com:DataTalksClub/data-engineering-zoomcamp.git
